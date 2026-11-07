@@ -8,11 +8,11 @@ This project explores the Rossmann Store Sales dataset using Python and Jupyter 
 
 ```text
 Sales_Analysis_project/
-├── Sales_Analysis_project_visualization/  # Visualization image files
-├── store.csv                              # Store-level information
-├── train.csv                              # Daily sales training data
-├── Sales_Analysis_project.ipynb           # Jupyter Notebook analysis
-└── README.md                              # Project documentation
+├── Sales_Analysis_project_visualization/
+├── train.csv
+├── store.csv
+├── Sales_Analysis_project.ipynb
+└── README.md
 ```
 
 ## 📊 Dataset
