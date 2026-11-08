@@ -111,7 +111,8 @@ The notebook includes a missing-value heatmap for the daily sales data and histo
 - Matplotlib
 - Seaborn
 
-##Observations
+## Observations
+
 <img width="876" height="485" alt="image" src="https://github.com/user-attachments/assets/f10ac387-aa47-41c0-90da-3f0b2f10786b" />
 
 
