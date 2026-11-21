@@ -15,7 +15,7 @@ Sales_Analysis_project/
 └── README.md
 ```
 
-## 📊 Dataset
+## Dataset
 
 This project uses the [Rossmann Store Sales dataset](https://www.kaggle.com/c/rossmann-store-sales/data), provided as two CSV files.
 
