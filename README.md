@@ -102,7 +102,7 @@ You can also run `jupyter lab`, then open `Sales_Analysis_project.ipynb` and exe
 
 The notebook includes a missing-value heatmap for the daily sales data and histograms of numeric fields. The project also includes a `Sales_Analysis_project_visualization/` directory containing image files associated with the analysis.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
