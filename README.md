@@ -46,7 +46,7 @@ Contains store metadata for **1,115 stores**:
 - `Promo2SinceWeek`, `Promo2SinceYear`: Start week and year of Promo2, when available.
 - `PromoInterval`: Months in which Promo2 runs, when available.
 
-## 🚀 Installation
+## Installation
 
 ### 1️⃣ Prepare the project files
 
