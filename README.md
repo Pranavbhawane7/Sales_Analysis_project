@@ -119,7 +119,7 @@ The notebook includes a missing-value heatmap for the daily sales data and histo
 
 
 
-## 📌 Scope and Future Improvements
+## Scope and Future Improvements
 
 The current notebook documents exploratory data analysis and basic data preparation. It does not show a completed forecasting model or model evaluation. Possible next steps include:
 
