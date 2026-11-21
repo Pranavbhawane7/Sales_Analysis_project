@@ -98,7 +98,7 @@ You can also run `jupyter lab`, then open `Sales_Analysis_project.ipynb` and exe
 - The notebook identifies 3 missing `CompetitionDistance` entries, 354 missing competition opening month/year entries, and 544 missing Promo2 schedule entries.
 - It attempts to fill selected missing competition opening and Promo2 schedule fields with zero. Review this assumption before using the resulting values in further analysis: missing can mean unknown or not applicable rather than a literal zero.
 
-## 📈 Visualizations
+## Visualizations
 
 The notebook includes a missing-value heatmap for the daily sales data and histograms of numeric fields. The project also includes a `Sales_Analysis_project_visualization/` directory containing image files associated with the analysis.
 
