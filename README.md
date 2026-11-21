@@ -77,7 +77,7 @@ jupyter notebook
 
 You can also run `jupyter lab`, then open `Sales_Analysis_project.ipynb` and execute the cells from top to bottom.
 
-## 🔍 Methodology
+## Methodology
 
 ### 1. Data loading and inspection
 
