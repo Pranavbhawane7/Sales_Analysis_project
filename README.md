@@ -4,7 +4,7 @@
 
 This project explores the Rossmann Store Sales dataset using Python and Jupyter Notebook. It examines daily sales, customer counts, store opening status, promotions, holidays, and store characteristics. The notebook focuses on data inspection, exploratory analysis, and preparation of the data for further study.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Sales_Analysis_project/
